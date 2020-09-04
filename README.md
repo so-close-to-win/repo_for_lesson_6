@@ -1,1 +1,1 @@
-# repo_for_lesson_6
+# qa_guru_course_2
