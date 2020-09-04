@@ -15,7 +15,7 @@ public class YandexTests {
         $("#text").val("Selenide").pressEnter();
 
         // Проверить, что Selenide появился в результатах поиска
-        $("html").shouldHave(text("ru.selenide.org"));
+        $("html").shouldHave(text("selenide.org"));
     }
 
 }
