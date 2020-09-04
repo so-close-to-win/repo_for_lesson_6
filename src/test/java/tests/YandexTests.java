@@ -18,4 +18,5 @@ public class YandexTests {
         // Проверить, что Selenide появился в результатах поиска
         $("html").shouldHave(text("ru.selenide.org"));
     }
+
 }
